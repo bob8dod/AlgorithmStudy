@@ -62,9 +62,9 @@
         <tr>
             <td rowspan=5> 2022.09.02 </td>
             <td rowspan=5> week2 </td>
-            <td> 16438 </td>
-            <td> G4 </td>
-            <td> <a target='_blank' href="https://www.acmicpc.net/problem/16438"> 원숭이 스포츠 </a> </td>
+            <td> 1629 </td>
+            <td> S1 </td>
+            <td> <a target='_blank' href="https://www.acmicpc.net/problem/1629"> 곱셈 </a> </td>
         </tr>
         <tr>
             <td> 9205 </td>
@@ -85,6 +85,13 @@
             <td> 1074 </td>
             <td> S1 </td>
             <td> <a target='_blank' href="https://www.acmicpc.net/problem/1074"> Z </a> </td>
+        </tr>
+        <tr>
+            <td> 2022.09.08 </td>
+            <td> 오늘의 문제 </td>
+            <td> 10026 </td>
+            <td> G5 </td>
+            <td> <a target='_blank' href="https://www.acmicpc.net/problem/10026"> 적록색약 </a> </td>
         </tr>
     </tbody>
 </table>
